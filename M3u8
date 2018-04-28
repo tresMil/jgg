@@ -1,0 +1,265 @@
+#EXTM3U 
+
+#EXTINF:-1, A&E
+http://www.iptv.darkiptv.com/appnopor/1nopor1/ae.php?index.m3u8
+#EXTINF:-1, AMC
+http://www.iptv.darkiptv.com/appnopor/1nopor1/amc.php?index.m3u8
+#EXTINF:-1, FX
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/fx.php?index.m3u8
+#EXTINF:-1, HBO
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/hbo.php?index.m3u8
+#EXTINF:-1, Hbo2
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/hbo2.php?index.m3u8
+#EXTINF:-1, Hbo plus
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/hbo_plus.php?index.m3u8
+#EXTINF:-1, HBO FAMILY
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/hbo_family.php?index.m3u8
+#EXTINF:-1, HBO SIGNATURE
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/hbo_signature.php?index.m3u8
+#EXTINF:-1, Id
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/id.php?index.m3u8
+#EXTINF:-1, discovery science
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/discoveryscience.php?index.m3u8
+#EXTINF:-1, DISCOVERY THEATER
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/discovery_theater.php?index.m3u8
+#EXTINF:-1, DISCOBERY CIVIL
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/discoverycivil.php?index.m3u8
+#EXTINF:-1, ANIMAL PLANET
+http://www.iptv.darkiptv.com/appnopor/1nopor1/animalplanet.php?index.m3u8
+#EXTINF:-1, NATGEO
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/natgeo.php?index.m3u8
+#EXTINF:-1, NATGOE MX
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/natgeo_mx.php?index.m3u8
+#EXTINF:-1, HISTORY
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/history.php?index.m3u8
+#EXTINF:-1, H2
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/h2.php?index.m3u8
+#EXTINF:-1, NAT GEO
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/natgeo_wild.php?index.m3u8
+#EXTINF:-1, TLC
+http://www.iptv.darkiptv.com/appnopor/4regalitonopor4/tlc.php?index.m3u8
+#EXTINF:-1, EL GOURMET
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/elgourmet.php?index.m3u8
+#EXTINF:-1, HBO SUB
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/hbo_sub.php?index.m3u8
+#EXTINF:-1, FOX SERIES
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/foxseries_sub.php?index.m3u8
+#EXTINF:-1, FOX ACTION
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/fox_action_mx.php?index.m3u8
+#EXTINF:-1, FOX CINEMA
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/fox_cinema_sub.php?index.m3u8
+#EXTINF:-1, FOX ACTION
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/fox_action_mx.php?index.m3u8
+#EXTINF:-1, FOX SERIES
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/foxseries_sub.php?index.m3u8
+#EXTINF:-1, CINEMAX
+http://www.iptv.darkiptv.com/appnopor/1nopor1/cinemax.php?index.m3u8
+#EXTINF:-1, FOX COMEDY
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/fox_comedy.php?index.m3u8
+#EXTINF:-1, MAX PRIME
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/max_prime.php?index.m3u8
+#EXTINF:-1, CINECANAL
+http://www.iptv.darkiptv.com/appnopor/1nopor1/cinecanal.php?index.m3u8
+#EXTINF:-1, FOX CLASSIC
+http://www.iptv.darkiptv.com/appnopor/2jajanopor2/fox_classics.php?index.m3u8
+#EXTINF:-1, MAX UP
+http://www.iptv.darkiptv.com/appnopor/3siguenopor3/maxup.php?index.m3u8
+#EXTINF:-1, TNT
+http://www.iptv.darkiptv.com/appnopor/4regalitonopor4/tnt.php?index.m3u8
+
+EXTINF:-1, Warner
+http://forumz.us/canales/TvDroid_warner.php?id=WARNER_HD&idd=warner
+#EXTINF:-1, FXM
+http://forumz.us/canales/TvDroid_tfz.php?id=THE_FILM_ZONE_HD&idd=fxm
+#EXTINF:-1, Fox
+http://forumz.us/canales/TvDroid_fox.php?id=FOX_HD&idd=f0x
+#EXTINF:-1, Fox 1
+http://forumz.us/canales/TvDroid_foxserieshd.php?id=FOX1_HD&idd=f0x_series
+#EXTINF:-1, Space
+http://forumz.us/canales/TvDroid_space.php?id=SPACE_HD&idd=space
+#EXTINF:-1, Universal
+http://forumz.us/canales/TvDroid_universal_channel.php?id=UNIVERSAL_CHANNEL&idd=univers
+#EXTINF:-1, Golden
+http://forumz.us/canales/TvDroid_goldem.php?id=GOLDEN_HD&idd=golden
+#EXTINF:-1, Axn
+http://forumz.us/canales/TvDroid_axn.php?id=AXN_HD&idd=axn
+#EXTINF:-1, Warner
+http://forumz.us/canales/TvDroid_warner.php?id=WARNER_HD&idd=warner
+#EXTINF:-1, Studio universal
+http://forumz.us/canales/TvDroid_Estudio_Universal.php?id=STUDIO_UNIVERSAL&idd=stdio_univ
+#EXTINF:-1, Tcm
+http://forumz.us/canales/TvDroid_tcm.php?id=TCM&idd=tcm
+#EXTINF:-1, Tbs
+http://forumz.us/canales/TvDroid_tbs.php?id=TBS_HD&idd=tbs
+#EXTINF:-1, Cinecanal
+http://forumz.us/canales/TvDroid_cinecanal.php?id=CINECANAL_HD&idd=cinecanal
+#EXTINF:-1, Fx hd
+http://forumz.us/canales/TvDroid_fx.php?id=FX_HD&idd=fx
+#EXTINF:-1, Tnt series
+http://forumz.us/canales/TvDroid_tnt_series.php?id=TNT_SERIES_HD&idd=tnt_ser
+#EXTINF:-1, Amc
+http://forumz.us/canales/TvDroid_amc.php?id=AMC_HD&idd=amc
+#EXTINF:-1, Tnt
+http://forumz.us/canales/TvDroid_TNT.php?id=TNT_HD&idd=tnt
+#EXTINF:-1, Depelicula
+http://forumz.us/canales/TvDroid_depelicula.php?id=DEPELICULA&idd=depelicula
+#EXTINF:-1, Multipremier
+http://forumz.us/canales/TvDroid_multipremier.php?id=MULTIPREMIER&idd=multipremier
+#ENTINF:-1, Cinelatino
+http://forumz.us/canales/TvDroid_cinelatino.php?id=CINELATINO&idd=cinelatino
+#EXTINF:-1, Cinema dinamita
+http://forumz.us/canales/TvDroid_cinedinamita.php?id=CINEMA_DINAMITA&idd=cinema_dinamita
+#EXTINF:-1, Paramount
+http://forumz.us/canales/TvDroid_paramount.php?id=PARAMOUNT_HD&idd=param
+#EXTINF:-1, Eurochannel
+http://forumz.us/canales/TvDroid_eurochannel.php?id=EUROCHANNEL&idd=eurochannel
+#EXTINF:-1, iSat
+http://forumz.us/canales/TvDroid_isat.php?id=ISAT&idd=disat
+#EXTINF:-1, Fx
+http://forumz.us/canales/TvDroid_fx.php?id=FX_HD&idd=fx
+#EXTINF:-1, Sundance
+http://forumz.us/canales/TvDroid_sundance.php?id=SUNDANCE_HD&idd=sundance
+#EXTINF:-1, A&E mundo
+http://forumz.us/canales/TvDroid_aemundo.php?id=AE_MUNDO_HD&idd=aehd
+#EXTINF:-1, Cinemax
+http://forumz.us/canales/TvDroid_c1nemax.php?id=CINEMAX&idd=c1nemax
+#EXTINF:-1, Golden premier
+http://forumz.us/canales/TvDroid_goldempremierhd.php?id=GOLDEN_PREMIER_HD&idd=goldp
+#EXTINF:-1, Hbo
+http://forumz.us/canales/TvDroid_hbo.php?id=HBO_HD_SUB&idd=hbohd_sub
+#EXTINF:-1, Sony
+http://forumz.us/canales/TvDroid_sony.php?id=SONY_HD&idd=sony
+#EXTINF:-1, Fox movies
+http://forumz.us/canales/TvDroid_foxmovies.php?id=FOXMOVIES_HD&idd=f0x_movies
+#EXTINF:-1, Animal planet
+http://forumz.us/canales/TvDroid_animalplanet.php?id=ANIMAL_PLANET_HD&idd=anim_planet
+#EXTINF:-1, Discobery world
+http://forumz.us/canales/TvDroid_discoveryworld.php?id=DISCOVERY_WORLD_HD&idd=world
+#EXTINF:-1, A&E MUNDO
+http://forumz.us/test.php?id=AE_MUNDO_HD&idd=aehd
+#EXTINF:-1, Discobery channel
+http://forumz.us/canales/TvDroid_discoverychannel.php?id=DISCOVERY_CHANNEL_HD&idd=discovery_channel_hd
+#EXTINF:-1, Nat geo
+http://forumz.us/canales/TvDroid_natgeo.php?id=NATGEO_HD&idd=natgeo
+#EXTINF:-1, Discobery theater
+http://forumz.us/canales/TvDroid_discoverytheater.php?id=DISCOVERY_THEATER_HD&idd=theater
+#EXTINF:-1, Discobery science
+http://forumz.us/canales/TvDroid_discoveryscience.php?id=DISCOVERY_SCIENCE&idd=disc_science
+#EXTINF:-1, H2
+http://forumz.us/canales/TvDroid_h2.php?id=H2&idd=h2
+#EXTINF:-1, Discobery turbo
+http://forumz.us/canales/TvDroid_discoveryturbo.php?id=DISCOVERY_TURBO&idd=disc_turbo
+#EXTINF:-1, TLC
+http://forumz.us/canales/TvDroid_tlc.php?id=TLC_HD&idd=tlc
+#EXTINF:-1,  Nat geo
+http://forumz.us/canales/TvDroid_natgeomx.php?id=NATGEO_MX_HD&idd=natgeo_mx
+#EXTINF:-1, Discobery civilization
+http://forumz.us/test.php?id=DISCOVERY_CIVILIZATION&idd=disc_civil
+#EXTINF:-1, Comedy central
+http://forumz.us/canales/TvDroid_concertchannel.php?id=COMEDY_CENTRAL_HD&idd=cc
+#EXTINF:-1, TBS
+http://forumz.us/canales/TvDroid_tbs.php?id=TBS_HD&idd=tbs
+#EXTINF:-1,  Tlnovelas
+http://forumz.us/canales/TvDroid_rcntelenovelas.php?id=RCN_TELENOVELAS&idd=rcn_tln
+#EXTINF:-1, h&h
+http://forumz.us/canales/TvDroid_discoveryhh.php?id=DISCOVERY_HOME_HEALTH_HD&idd=disc_hh
+#EXTINF:-1, Gourmet
+http://forumz.us/canales/TvDroid_elgourmet.php?id=GOURMET_HD&idd=elgourmet
+#EXTINF:-1, Disney
+http://forumz.us/canales/TvDroid_disneyhd.php?id=DISNEY_HD&idd=d1sney
+#EXTINF:-1, Cartoon network
+http://forumz.us/canales/TvDroid_cartoonnetwork.php?id=CARTOON_NETWORK_HD&idd=cart_net
+#EXTINF:-1, Nickelodeon
+http://forumz.us/canales/TvDroid_nickelodeon.php?id=NICKELODEON_HD&idd=nick
+#EXTINF:-1, Discobery kids
+http://forumz.us/canales/TvDroid_discoverykids.php?id=DISCOVERY_KIDS_HD&idd=disc_kids
+#EXTINF:-1, Xd
+http://forumz.us/canales/TvDroid_disneyxd.php?id=DISNEY_XD&idd=d1sneyxd
+#EXTINF:-1, Tooncast
+http://forumz.us/canales/TvDroid_tooncast.php?id=TOONCAST&idd=tooncast
+#EXTINF:-1, Nick 2
+http://forumz.us/canales/TvDroid_nick2.php?id=NICK_2_HD&idd=nick2
+#EXTINF:-1, Nat geo kids
+http://forumz.us/canales/TvDroid_natgeokids.php?id=NATGEO_KIDS_HD&idd=natgeo_kids
+#EXTINF:-1, Boomerang
+http://forumz.us/canales/TvDroid_boomerang.php?id=BOOMERANG&idd=boomerang
+#EXTINF:-1, Nat geo kids mx
+http://forumz.us/canales/TvDroid_natgeokidsmx.php?id=NATGEOKIDS_MX_HD&idd=natgeo_kids_mx
+#EXTINF:-1, Concert channel
+http://forumz.us/canales/TvDroid_concertchannel.php?id=CONCERT_CHANNEL_HD&idd=concert
+#EXTINF:-1, Mtv hd
+http://forumz.us/canales/TvDroid_mtv.php?id=MTV_HD&idd=mtvhd
+#EXTINF:-1, Mtv hits
+http://forumz.us/canales/TvDroid_mtvhits.php?id=MTV_HITS&idd=mtvh
+#EXTINF:-1, Mtv live
+http://forumz.us/test.php?id=MTV_LIVE_HD&idd=mtvl1ve
+#EXTINF:-1, Vh1
+http://forumz.us/canales/TvDroid_vh1.php?id=VH1&idd=vh1
+#EXTINF:-1, Vh1 classic
+http://forumz.us/test.php?id=VH1_CLASSIC&idd=vh1class
+#EXTINF:-1, Vh1 hd
+http://forumz.us/canales/TvDroid_vh1hd.php?id=VH1_HD&idd=vh1hd
+#EXTINF:-1, Fox life
+http://forumz.us/canales/TvDroid_foxlife.php?id=FOX_LIFE_HD&idd=f0xlife
+#EXTINF:-1, Espn
+http://forumz.us/tv/TvDroid_espn.php?id=ESPN_HD&idd=espn
+#EXTINF:-1, Espn 2
+http://forumz.us/canales/TvDroid_espn2.php?id=ESPN_2_HD&idd=espn2
+#EXTINF:-1, Fox
+http://forumz.us/canales/TvDroid_fox.php?id=FOX_HD&idd=f0x
+#EXTINF:-1, Hbo 2
+http://forumz.us/canales/TvDroid_hbo2.php?id=HBO_2_HD&idd=hb02
+#EXTINF:-1, Hbo PLUS
+http://forumz.us/canales/TvDroid_hboplus.php?id=HBO_PLUS_HD&idd=hboplus 
+#EXTINF:-1, Max prime
+http://forumz.us/canales/TvDroid_maxprime.php?id=MAX_PRIME_HD&idd=m4x_prime
+#EXTINF:-1, Fox action
+http://forumz.us/canales/TvDroid_foxactionmexico.php?id=FOX_ACTION_MEXICO_HD&idd=fox_action_mx
+#EXTINF:-1,HBO PLUS
+http://forumz.us/tv/TvDroid_hboplus.php?id=HBO_PLUS_HD&idd=hboplus
+#EXTINF:-1,HBO SIGNATURE
+forumz.us/tv/TvDroid_hbosignature.php?id=HBO_SIGNATURE_HD&idd=dhbosign
+#EXTINF:-1,HBO FAMILY
+http://forumz.us/tv/TvDroid_hbofamily.php?id=HBO_FAMILY_HD&idd=hb0fam
+#EXTINF:-1,MAX UP
+http://forumz.us/tv/TvDroid_maxup.php?id=MAX_UP_HD&idd=m4xup
+#EXTINF:-1,FOX FAMILY
+http://forumz.us/tv/TvDroid_foxfamilyhd.php?id=FOXFAMILY_HD&idd=f0x_family
+#EXTINF:-1,DHE
+http://forumz.us/tv/TvDroid_dhe.php?id=DHE_HD&idd=dhe
+#EXTINF:-1,FOX ACTION
+http://forumz.us/tv/TvDroid_foxaction.php?id=FOXACTION_HD&idd=foxaction
+#EXTINF:-1,FOX CINEMA
+http://forumz.us/tv/TvDroid_foxcinemahdsub.php?id=FOX_CINEMA_HD_SUB&idd=f0x_cinema_sub
+#EXTINF:-1,FOX CLASSIC
+http://forumz.us/tv/TvDroid_foxclassics.php?id=FOX_CLASSICS_HD&idd=f0x_classics
+#EXTINF:-1, Espn 3
+http://forumz.us/canales/TvDroid_espn3.php?id=ESPN_3_HD&idd=espn3_kr
+#EXTINF:-1, Espn plus
+http://forumz.us/canales/TvDroid_espn_plus.php?id=ESPN_PLUS_HD&idd=espn_plus
+#EXTINF:-1, deportes
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1, CINEMAX
+http://forumz.us/tv/TvDroid_c1nemax.php?id=CINEMAX&idd=c1nemax
+#EXTINF:-1, Fox sport 2
+http://forumz.us/canales/TvDroid_foxsports2.php?id=FOX_SPORTS2_HD&idd=foxsports2
+#EXTINF:-1, E!
+http://forumz.us/canales/TvDroid_e.php?id=E&idd=e_ent
+#EXTINF:-1, Fox sport hd
+http://forumz.us/canales/TvDroid_foxsports.php?id=FOX_SPORTS_HD&idd=foxsports
+#EXTINF:-1, Sport tv
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1, Fox sport 3
+http://forumz.us/canales/TvDroid_foxsports3.php?id=FOX_SPORTS3_HD&idd=foxsports3
+#EXTINF:-1, Fox spor 2mx
+http://forumz.us/canales/TvDroid_foxsports2mx.php?id=FOXSP2_MX_HD&idd=f0xsports2mx
+#EXTINF:-1, Fox sport mx
+http://forumz.us/canales/TvDroid_foxsportsmx.php?id=FOXSP1_MX_HD&idd=f0xsportsmx
+#EXTINF:-1, Win sport
+http://forumz.us/canales/TvDroid_winsports.php?id=WINSPORTS_HD&idd=winsports
+#EXTINF:-1, Claro sport
+http://forumz.us/canales/TvDroid_claro_sports_col.php?id=CLARO_SPORTS_COL_HD&idd=clspoco
+#EXTINF:-1, Univision deportes
+https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_4500.m3u8
+#EXTINF:-1, Tdn
+https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_4500.m3u8
